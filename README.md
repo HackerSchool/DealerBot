@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1ZRtn9APREeGtd2ZQvwtIZRIXps6PW-Qt?fbclid=
 
 # Quick git commands:
 ```
-$ git clone https://github.com/Joao-Maria-Janeiro/Projeto-Final-Programacao.git
+$ git clone https://github.com/HackerSchool/DealerBot
 $ git add --all
 $ git commit -m "Random comment"
 $ git push
