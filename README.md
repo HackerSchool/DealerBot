@@ -17,11 +17,11 @@ $ git add --all
 $ git commit -m "Random comment"
 $ git push
 ```
-## To get back to work:
+### To get back to work:
 ```
 $ git pull
 ```
-## When you wanna PUSH and you have to overwrite what you've coded
+### When you wanna PUSH and you have to overwrite what you've coded
 ```
 $ git stash save --keep-index
 $ git push
